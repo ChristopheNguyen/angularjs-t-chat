@@ -1,0 +1,12 @@
+{
+  "name": "tchat-angularjs",
+  "version": "1.0.0",
+  "description": "tchat-angularjs",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongoose": "^4.6.7",
+    "socket.io": "^1.5.1"
+  },
+  "author": "Christophe NGUYEN",
+  "license": "ISC"
+}
