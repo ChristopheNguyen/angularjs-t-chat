@@ -1,9 +1,13 @@
 ## Description
 Chat in realtime using MEAN + SOCKET.IO with Bootstrap
 
+## Requirements:
+- NodeJS
+- MongoDB 
+
 ## How to run the project
 
-- Clone or download i
+- Clone or download it
 - Add Dependencies (in your terminal): 
 ```
 npm install
