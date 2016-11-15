@@ -11,6 +11,7 @@ Chat in realtime using MEAN + SOCKET.IO with Bootstrap
 - Add Dependencies (in your terminal): 
 ```
 npm install
+npm install -g bower
 bower install
 ```
 - Run a MongoDb server (in your terminal n°2)
