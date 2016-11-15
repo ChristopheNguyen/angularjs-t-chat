@@ -1,5 +1,5 @@
 ## Description
-Chat in realtime using MEAN + SOCKET.IO
+Chat in realtime using MEAN + SOCKET.IO with Bootstrap
 
 ## How to run the project
 
