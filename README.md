@@ -15,6 +15,7 @@ npm install -g bower
 bower install
 ```
 - Run a MongoDb server (in your terminal n°2)
+(don't forget to create the directory C:\data\db if you doesn't have the permissions)
 ```
 mongod
 ```
