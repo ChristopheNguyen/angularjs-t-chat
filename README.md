@@ -9,7 +9,7 @@ Chat in realtime using MEAN + SOCKET.IO with Bootstrap
 npm install
 bower install
 ```
-- Run a MongoDb server (In your terminal n°2)
+- Run a MongoDb server (in your terminal n°2)
 ```
 mongod
 ```
