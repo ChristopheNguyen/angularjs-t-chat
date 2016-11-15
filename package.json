@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "tchat-angularjs",
   "dependencies": {
+    "bower": "^1.8.0",
     "express": "^4.14.0",
     "mongoose": "^4.6.7",
     "socket.io": "^1.5.1"
