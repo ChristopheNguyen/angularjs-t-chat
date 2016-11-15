@@ -1,7 +1,7 @@
 ## Description
 Chat in realtime using MEAN + SOCKET.IO
 
-## How to run the project
+### How to run the project
 
 - Clone or download i
 - Add Dependencies (in your terminal): 
