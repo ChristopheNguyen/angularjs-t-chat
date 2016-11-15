@@ -1,4 +1,4 @@
-# angularjs-t-chat
+## Description
 Chat in realtime using MEAN + SOCKET.IO
 
 ## How to run the project
