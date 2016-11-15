@@ -23,7 +23,6 @@ server.listen(port, function(error) {
 
 app.use(express.static(__dirname  + '/app'));
 app.use('/bower_components',  express.static(__dirname + '/bower_components'));
-app.use('/node_modules',  express.static(__dirname + '/node_modules'));
 
 var mongoose = require('mongoose');
 
@@ -90,7 +89,7 @@ io.on('connection',function(socket){
             socket.emit('duplicate');
         } else {
             usersList.push(data);
-            console.log(usersList);
+
             // sending to all clients, include sender
             io.sockets.emit('get users list',usersList);
         }
