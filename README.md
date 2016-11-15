@@ -13,7 +13,7 @@ bower install
 ```
 mongod
 ```
-- Run the project server
+- Run the project server (in your terminal): 
 ```
 node server.js
 ```
