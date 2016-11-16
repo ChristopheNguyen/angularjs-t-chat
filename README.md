@@ -8,7 +8,7 @@ Chat in realtime using MEAN + SOCKET.IO with Bootstrap
 ## How to run the project
 
 - Clone or download it
-- Add Dependencies (in your terminal): 
+- Add project dependencies with npm and bower (in your terminal): 
 ```
 npm install
 npm install -g bower
@@ -18,7 +18,7 @@ bower install
 ```
 mongod
 ```
-- Run the project server (in your terminal): 
+- Run the project server node (in your terminal): 
 ```
 node server.js
 ```
